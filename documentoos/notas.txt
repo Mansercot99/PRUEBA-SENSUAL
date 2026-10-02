@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "Añado notas sobre Git"
+git push
